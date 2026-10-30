@@ -225,6 +225,4 @@ aws ec2 delete-launch-template \
 - A new instance gets a **new public IP** each time. Use an Elastic Load Balancer or a DNS-based approach if you need a stable endpoint.
 - Scheduled actions use the time zone you set. Without one, they default to **UTC**.
 
-## License
 
-This project is licensed under the MIT License.
