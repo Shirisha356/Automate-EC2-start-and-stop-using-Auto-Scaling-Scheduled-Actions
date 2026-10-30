@@ -1,0 +1,1 @@
+# Automate-EC2-start-and-stop-using-Auto-Scaling-Scheduled-Actions
